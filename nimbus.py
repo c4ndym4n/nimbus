@@ -17,3 +17,13 @@ __author__ = 'nimbus'
 # TODO: Plugins
 # TODO: Body/Framework
 # TODO: Documentation System Pythonic
+
+if __name__ == '__main__':
+    from Core import controller
+
+
+
+    try:
+        app = controller.Framework()
+    except KeyboardInterrupt as k:
+        print("\n\n\t*** [ KEYBOARD INTERRUPT ] ***\n\n")
