@@ -1,0 +1,5 @@
+curl -O https://fastdl.mongodb.org/osx/mongodb-osx-x86_64-3.0.7.tgz
+
+tar -zxvf mongodb-osx-x86_64-3.0.7.tgz
+
+

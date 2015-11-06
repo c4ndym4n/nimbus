@@ -1,0 +1,6 @@
+{
+  "python": "http://www.python.com",
+
+  // Dependencies
+  "veryprettytable": "pip install veryprettytable"
+}
